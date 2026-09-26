@@ -1,4 +1,4 @@
-# 🚀 discordjs-nextgen Ecosystem
+# 🚀 Nextgen Ecosystem
 
 `discordjs-nextgen`, modern yazılım standartlarını (JSX, CLI, gelişmiş caching ve veritabanı yönetimi) bot geliştirme sürecine entegre eden yüksek performanslı, modüler bir framework ekosistemidir.
 
